@@ -1,3 +1,5 @@
+// please check the video
+// https://www.youtube.com/watch?v=FFiTBUYAoI0
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
